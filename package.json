@@ -1,6 +1,6 @@
 {
   "name": "ng-annotate-loader",
-  "version": "0.2.0",
+  "version": "0.2.0-wp2-imports-0",
   "description": "Webpack loader that runs ng-annotate on your bundles",
   "main": "loader.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "homepage": "https://github.com/huston007/ng-annotate-loader",
   "dependencies": {
     "loader-utils": "^0.2.6",
-    "ng-annotate": "1.2.1",
+    "ng-annotate": "github:eoinsha/ng-annotate#1.2.1-wp2-imports-1",
     "normalize-path": "^2.0.1",
     "source-map": "^0.5.6"
   },
